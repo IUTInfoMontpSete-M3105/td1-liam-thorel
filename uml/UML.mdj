@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "Use Cases",
+					"name": "Cas d'utilisations",
 					"defaultDiagram": true,
 					"ownedViews": [
 						{
@@ -17697,7 +17697,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -17719,7 +17719,7 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -17741,7 +17741,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
@@ -26169,6 +26169,24 @@
 						"$ref": "AAAAAAF75Dku8QHjscw="
 					},
 					"name": "UseCaseDiagram1"
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAF75INMVEHluyk=",
+			"_parent": {
+				"$ref": "AAAAAAFElm5XMFNoGY0="
+			},
+			"name": "Model2",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAF75INMVEHmxm8=",
+					"_parent": {
+						"$ref": "AAAAAAF75INMVEHluyk="
+					},
+					"name": "Diagramme de classes"
 				}
 			]
 		}
